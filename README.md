@@ -66,8 +66,6 @@ It demonstrates strong skills in **computer vision, transfer learning, image pre
 * Stable convergence due to FastAI’s one-cycle training
 * Model generalizes well on test images
 
-(Add your **accuracy**, **confusion matrix**, or **sample predictions screenshot** if available.)
-
 https://colab.research.google.com/drive/1TsERjhGqcUn7R6e7qyojximv6Q1Wug6w?usp=sharing
 ---
 
