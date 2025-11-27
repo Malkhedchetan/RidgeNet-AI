@@ -24,13 +24,13 @@ It demonstrates strong skills in **computer vision, transfer learning, image pre
 
 ## 🧠 **Key Features**
 
-✔ Uses **FastAI DataBlock API** for image loading and transforms
-✔ Applies **image augmentations** for better generalization
-✔ Leverages **pre-trained ResNet** backbone (ResNet34/ResNet50)
-✔ Uses **transfer learning** to train faster and achieve higher accuracy
-✔ Tracks training with accurate metrics
-✔ Saves final trained model as a `.pkl` file
-✔ Provides easy inference on new fingerprint images
+* Uses **FastAI DataBlock API** for image loading and transforms
+* Applies **image augmentations** for better generalization
+* Leverages **pre-trained ResNet** backbone (ResNet34/ResNet50)
+* Uses **transfer learning** to train faster and achieve higher accuracy
+* Tracks training with accurate metrics
+* Saves final trained model as a `.pkl` file
+* Provides easy inference on new fingerprint images
 
 ---
 
