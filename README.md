@@ -67,6 +67,8 @@ It demonstrates strong skills in **computer vision, transfer learning, image pre
 * Model generalizes well on test images
 
 https://colab.research.google.com/drive/1TsERjhGqcUn7R6e7qyojximv6Q1Wug6w?usp=sharing
+
+https://drive.google.com/file/d/1SDd5_EXxibmsNad5w6Se2_bzY_SRn5eP/view?usp=sharing
 ---
 
 ## 🎯 **Use Cases**
